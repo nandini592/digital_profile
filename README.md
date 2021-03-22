@@ -1,4 +1,4 @@
-# digital_profil
+# digital_profile
 
 Vaddula Nandini
 ============
@@ -19,10 +19,11 @@ Education
      Estimation Problem*
 
 2017-2019
-:   **Intermediate**; University of
-    HomeTown (HomeTown)
+:   **Intermediate**; Sri Chaitanya Junior college(My Town)
 
-    *Minor: Awesomeology*
+2017(passed out)
+:   **secondary Education**;Intel Public School(My village)
+*Minor: Awesomeology*
 
 Experience
 ----------
